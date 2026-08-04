@@ -1,5 +1,3 @@
-# tv-rh-automatico
-Sistema de TV corporativa com Samba + PHP + HTML para exibição automática de imagens
 # 🖥️ TV RH Automático
 
 Sistema corporativo para exibição de imagens em looping em TVs, com compartilhamento de arquivos via Samba e controle de velocidade via arquivo de configuração.
