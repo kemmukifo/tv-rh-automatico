@@ -1,1 +1,37 @@
+# ============================================================
+# CONFIGURAÇÃO DA TV RH
+# ============================================================
+#
+# Este arquivo controla a velocidade de exibição das imagens
+# na TV. Basta editar o valor abaixo e salvar.
+#
+# ============================================================
+# INSTRUÇÕES:
+# ============================================================
+# 
+# TEMPO_ENTRE_IMAGENS = [segundos]
+#
+# Substitua [segundos] pelo tempo que cada imagem deve
+# ficar visível na tela.
+#
+# ============================================================
+# EXEMPLOS:
+# ============================================================
+#   TEMPO_ENTRE_IMAGENS = 5    → 5 segundos (rápido)
+#   TEMPO_ENTRE_IMAGENS = 10   → 10 segundos
+#   TEMPO_ENTRE_IMAGENS = 30   → 30 segundos
+#   TEMPO_ENTRE_IMAGENS = 60   → 1 minuto
+#   TEMPO_ENTRE_IMAGENS = 120  → 2 minutos
+#   TEMPO_ENTRE_IMAGENS = 300  → 5 minutos (máximo)
+#
+# ============================================================
+# REGRAS:
+# ============================================================
+# - Valores permitidos: de 1 a 300 segundos
+# - Não remova a palavra "TEMPO_ENTRE_IMAGENS"
+# - Não remova o sinal de "="
+# - Linhas começando com "#" são ignoradas
+# - Linhas em branco são ignoradas
+# ============================================================
 
+TEMPO_ENTRE_IMAGENS = 5
